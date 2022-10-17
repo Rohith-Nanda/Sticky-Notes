@@ -1,4 +1,4 @@
-# todo_gsheets
+# StickyNotes_gsheets
 
 A new Flutter project.
 
